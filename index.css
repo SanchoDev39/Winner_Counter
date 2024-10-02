@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://lh3.googleusercontent.com/pw/AP1GczM-ERdRTteiPnLeiQCF2OOcrCPbYJk15kd-8FsduUPB9x97HQi6bCBkbkG0vSSbDVV-B-yfXtKZIG6h1iSo4TNVOluEEMD03ZDn2bK97BGQcrgSFZULEDyGth54eWeQfbWhWaprIPiP3RMMWkAvzeYIFQ=w2303-h1727-s-no-gm?authuser=0");
+    background-size: cover;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+}
+.container{
+    box-shadow: 5px 5px 15px black;
+    width: 80%;
+    margin-inline: auto;
+    height: 70vh;
+    margin-top: 10%;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3em;
+    text-shadow: 0px 0px 3px rgb(252, 251, 251);
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkorange;
+        text-shadow: 0px 0px 3px rgb(6, 6, 6);
+
+}
+
+#save-btn {
+    background: green;
+    text-shadow: 1px 1px 3px black;
+}
+#save-el{
+    font-size: 2em;
+        text-shadow: 0px 0px 3px rgb(252, 251, 251);
+
+}
